@@ -1,0 +1,8 @@
+[
+  { "id": 1, "title": "Pudge", "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/pudge.png", "stat": "65%", "description": "Найвідоміший хук в історії гри." },
+  { "id": 2, "title": "Anti-Mage", "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/antimage.png", "stat": "58%", "description": "Фармить як монстр." },
+  { "id": 3, "title": "Invoker", "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/invoker.png", "stat": "53%", "description": "Складний маг із 10 заклинаннями." },
+  { "id": 4, "title": "Juggernaut", "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/juggernaut.png", "stat": "60%", "description": "Надійний керрі." },
+  { "id": 5, "title": "Arc Warden", "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/arc_warden.png", "stat": "80%", "description": "Майстер мікроконтролю." },
+  { "id": 6, "title": "Broodmother", "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/broodmother.png", "stat": "75%", "description": "Захоплює лінію павуками." }
+]
